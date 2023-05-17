@@ -1,0 +1,20 @@
+Cómo ejecutar el Portal Shoppinh en línea usando PHP y MySQL
+1. Descarga el archivo zip
+
+2. Extraiga el archivo y copie la carpeta de compras
+
+3. Pegue dentro del directorio raíz (para xampp xampp/htdocs, para wamp wamp/www, para lamp var/www/html)
+
+4. Abra PHPMyAdmin (http://localhost/phpmyadmin)
+
+5. Crea una base de datos con compras de nombres
+
+6. Importar archivo de compras (dentro del paquete zip en la carpeta de archivos SQL)
+
+7.Ejecute el script http://localhost/shopping (frontend)
+
+
+Detalles de inicio de sesión para el usuario:
+
+Username : darwin.cocommis@gmail.com
+Password : 12345678
